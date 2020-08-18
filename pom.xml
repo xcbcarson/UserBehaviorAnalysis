@@ -10,6 +10,11 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>HotItemsAnalysis</module>
+        <module>NetworkFlowAnalysis</module>
+        <module>MarketAnalysis</module>
+        <module>LoginFailDetect</module>
+        <module>OrderTimeoutDetect</module>
+        <module>TxMatchDetect</module>
     </modules>
 
     <properties>
